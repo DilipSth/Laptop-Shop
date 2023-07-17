@@ -1,0 +1,15 @@
+--------------------------------------------------
+		  Bill Details  
+--------------------------------------------------
+
+Name of Customer: Mr/Mrs.ggt
+Phone Number: 5
+Date time of sold laptops: 2023-05-30 20:53:36.810141
+Total laptop quantity: 11qty
+Total Price (Excluding Shipping Cost): 14300.0
+Laptop's Name: [' Razer    ', ' cer      ']
+Company Name: ['Razer Blade', 'Swift 7    ']
+
+Your Grand Total with shipping cost is: 14800.0
+
+--------------------------------------------------
